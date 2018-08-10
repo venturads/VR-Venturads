@@ -4,8 +4,8 @@
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="app@venturads.com" href="https://venturads.com">
+        Venturads.com Team
     </author>
     <content src="index.html" />
     <gap:plugin name="org.apache.cordova.battery-status" />
